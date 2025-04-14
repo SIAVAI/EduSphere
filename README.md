@@ -45,6 +45,8 @@ The project is divided into well-structured classes:
 - Methods: `calculate_final_grade()`
 - Properties: `id`
 
-## 🖥️ User Interface
+## 🛠️ Technologies Used
 
-The app provides an interactive **CLI menu** that supports:
+- Python 3.x
+- Object-Oriented Programming (OOP)
+- CLI-based interface
